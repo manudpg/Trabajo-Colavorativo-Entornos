@@ -37,7 +37,6 @@ public class Cabecera {
 				
 				if (ejecutar.equals("1")) {
 					
-					maria();
 				}
 				
 				
@@ -116,9 +115,7 @@ public class Cabecera {
 	}
 	
 	
-	static void maria() {
-		
-		
+	static void zenobia() {
 		
 		
 		if (contadorCoqueteo > 5 && contadorRomantico == 3) {
