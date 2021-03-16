@@ -118,7 +118,7 @@ public class Cabecera {
 	
 	static void maria() {
 		
-		
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 		
 		
 		if (contadorCoqueteo > 5 && contadorRomantico == 3) {
