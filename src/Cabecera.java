@@ -124,6 +124,8 @@ public class Cabecera {
 		if (contadorCoqueteo > 5 && contadorRomantico == 3) {
 			
 			System.out.println("la cita ha sido muy interesante has obtenido un 8/10 .");
+			system.out.println("Hola soy diego intentado crear un rama nueva");
+			
 		}
 		
 		
